@@ -80,3 +80,7 @@ body{
 .form-control input:valid {
           outline: 0;
 }
+
+.form-control label {
+          position: absolute;
+}
